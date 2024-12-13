@@ -20,5 +20,3 @@ In turn, using the right data and statisical methods would lead to a better pred
 and retrospectively, the past.
 
 This. This is where my passion lies.
-
-[![Thaidav's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaidav)](https://github.com/thaidav/github-readme-stats)
